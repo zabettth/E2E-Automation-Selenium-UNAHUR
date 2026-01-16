@@ -1,7 +1,14 @@
 # 🤖 E2E Automation Testing - CelFar App
 
 Proyecto de automatización de pruebas "End-to-End" realizado para la aplicación **CelFar** (Conversor de temperaturas). Este proyecto valida la lógica de negocio y la interfaz de usuario a través de 4 versiones distintas de la aplicación.
+---
 
+## 📊 Resultados de la Ejecución y Reporte de Bugs
+La ejecución de esta suite de pruebas permitió identificar diversos fallos de lógica y visualización en las diferentes versiones de la aplicación. 
+
+Toda la evidencia y el detalle técnico de los hallazgos se encuentra documentado en el siguiente reporte:
+
+👉 **[Descargar Reporte de Bugs (Automation)](./Reporte-de-Bugs-Automation-CelFar.xlsx)** *(Nota: El reporte incluye severidad, pasos de reproducción y resultados obtenidos mediante la automatización).*
 
 
 ### 🚀 Características del Proyecto
